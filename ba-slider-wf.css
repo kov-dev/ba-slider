@@ -66,7 +66,6 @@
 
 /* Knob Center logic (Positioning Wrapper) */
 .ba-slider--knob {
-  transform: translateY(-50%); 
   will-change: top;
 }
 
@@ -74,7 +73,7 @@
 /* Use data-ba-fade on any element inside the slider handle to fade it out on interaction */
 
 [data-ba-fade] {
-    transition: opacity 0.2s ease, transform 0.2s ease;
+ transition: opacity 0.2s ease, transform 0.2s ease;
 }
 
 /* 1. Dragging */
