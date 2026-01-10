@@ -1,7 +1,7 @@
 <script>
 document.addEventListener('DOMContentLoaded', () => {
     // 1. SELECT YOUR SLIDER (Make sure ID matches)
-    const slider = document.getElementById('my-slider');
+    const slider = document.getElementById('baSlider');
     
     // Buttons
     const btnDrag = document.getElementById('btn-mode-drag');
