@@ -6,7 +6,7 @@
   user-select: none;
   -webkit-user-select: none;
   touch-action: pan-y;
-  /*cursor: ew-resize;*/
+  cursor: none;
   box-sizing: border-box; 
 }
 
